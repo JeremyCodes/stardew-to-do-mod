@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jerem\\OneDrive\\Documents\\Code\\stardew-to-do-mod\\ToDoMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jerem\\OneDrive\\Documents\\Code\\stardew-to-do-mod\\ToDoMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jerem\\OneDrive\\Documents\\Code\\stardew-to-do-mod\\ToDoMod.csproj",
+        "projectName": "ToDoMod",
+        "projectPath": "C:\\Users\\jerem\\OneDrive\\Documents\\Code\\stardew-to-do-mod\\ToDoMod.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jerem\\OneDrive\\Documents\\Code\\stardew-to-do-mod\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Pathoschild.Stardew.ModBuildConfig": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

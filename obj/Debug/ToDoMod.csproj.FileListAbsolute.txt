@@ -4,3 +4,5 @@ C:\Users\grego\source\repos\ToDoMod\ToDoMod\obj\Debug\ToDoMod.csprojResolveAssem
 C:\Users\grego\source\repos\ToDoMod\ToDoMod\obj\Debug\ToDoMod.csproj.CoreCompileInputs.cache
 C:\Users\grego\source\repos\ToDoMod\ToDoMod\obj\Debug\ToDoMod.dll
 C:\Users\grego\source\repos\ToDoMod\ToDoMod\obj\Debug\ToDoMod.pdb
+C:\Users\jerem\OneDrive\Documents\Code\stardew-to-do-mod\obj\Debug\ToDoMod.dll
+C:\Users\jerem\OneDrive\Documents\Code\stardew-to-do-mod\obj\Debug\ToDoMod.pdb

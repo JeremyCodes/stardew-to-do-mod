@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Ejiwn0W9cFk1jSIv+Hba6PEzTXlUkIh8cnU87PIHiWj8cq+xk1AfTtI0EO1aWXO8PRqfciRq+S8tUu0wMHEzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jerem\\OneDrive\\Documents\\Code\\stardew-to-do-mod\\ToDoMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\3.1.0\\pathoschild.stardew.modbuildconfig.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
